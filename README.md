@@ -2,9 +2,13 @@
 The Car Comparison Tool that will help you compare multiple vehicles.
 
 # Core Features
+
+- 👤 The user may sign in / log in to review his or her searches.
+<img width="1420" alt="Capture d’écran 2022-05-19 à 2 35 39 PM" src="https://user-images.githubusercontent.com/75333777/169306222-1a7dca91-b64a-464f-98ec-f226e1099ea8.png">
+
 - 🚙 The user may choose one car model to get  its full specifications including the price, fuel consumption, HorsePower, wheel size...
 - 🏎 The user may choose multiple car models to compare their specifications.
-- 🚗 Example: Brand: Mercedes, Model: A-Class, Trim: A220 Sedan Package Includes
+- 🚗 Example: Brand: Mercedes, Model: A-Class, Trim: A220 Sedan Package Includes.
 <img width="1420" alt="Capture d’écran 2022-05-19 à 2 28 33 PM" src="https://user-images.githubusercontent.com/75333777/169304745-b9ff4c1f-348a-4d80-be36-3f935e73c488.png">
 
 
